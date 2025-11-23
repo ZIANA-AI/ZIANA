@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Matematika",
+    "bg": "#FFF1E9",
+    "questions": [
+      { "question": "Limit berikut bernilai …", "options": ["1", "2", "3", "0"], "answer": "3" },
+      { "question": "Nilai maksimum fungsi adalah …", "options": ["13", "17", "21", "25"], "answer": "17" },
+      { "question": "Jika matriks A berordo 2×2 dan det(A)=−4, maka det(3A) = …", "options": ["−36", "−24", "36", "24"], "answer": "−36" },
+      { "question": "Akar-akar persamaan adalah …", "options": ["4 dan −3/2", "6 dan −2", "4 dan −?", "12 dan −?"], "answer": "4 dan −3/2" },
+      { "question": "Barisan geometri memiliki suku pertama 5 dan suku ketiga 45. Rasio adalah …", "options": ["2", "3", "√3", "4"], "answer": "3" },
+      { "question": "Integral …", "options": ["A", "B", "C", "D"], "answer": "A" },
+      { "question": "Banyak fungsi dari himpunan 3 elemen ke 4 elemen adalah …", "options": ["7", "12", "64", "81"], "answer": "64" },
+      { "question": "Peluang mendapatkan tepat 3 angka 'head' dari 5 kali lempar koin adalah …", "options": ["10/32", "5/32", "20/32", "30/32"], "answer": "10/32" },
+      { "question": "Solusi sistem:\nx + y = 5\n2x − y = 1", "options": ["(2, 3)", "(3, 2)", "(4, 1)", "(5, 0)"], "answer": "(3, 2)" },
+      { "question": "Nilai … adalah …", "options": ["6", "8", "10", "12"], "answer": "8" }
+    ]
+  },
+  {
+    "title": "Fisika",
+    "bg": "#E0FDEF",
+    "questions": [
+      { "question": "Kapasitor 10 µF dipasang pada tegangan 200 V. Energi yang tersimpan adalah …", "options": ["0,1 J", "0,2 J", "0,4 J", "2 J"], "answer": "0,2 J" },
+      { "question": "Hukum Faraday menyatakan bahwa …", "options": ["Arus induksi ∝ perubahan fluks magnet", "Gaya ∝ perubahan momentum", "Energi tidak dapat diciptakan", "Frekuensi ∝ amplitudo"], "answer": "Arus induksi ∝ perubahan fluks magnet" },
+      { "question": "Gelombang memiliki cepat rambat 300 m/s dan frekuensi 150 Hz. Panjang gelombangnya adalah …", "options": ["0,5 m", "1 m", "2 m", "4 m"], "answer": "2 m" },
+      { "question": "Jika massa jenis benda ρ < massa jenis air, maka benda akan …", "options": ["Tenggelam", "Melayang", "Mengapung", "Tidak mengalami gaya apung"], "answer": "Mengapung" },
+      { "question": "Hasil dari tumbukan lenting sempurna adalah …", "options": ["Momentum tidak kekal", "Energi tak kekal", "Energi dan momentum kekal", "Energi hilang total"], "answer": "Energi dan momentum kekal" },
+      { "question": "Besaran turunan adalah …", "options": ["Massa", "Panjang", "Gaya", "Suhu"], "answer": "Gaya" },
+      { "question": "Satuan induktansi adalah …", "options": ["Tesla", "Henry", "Weber", "Joule"], "answer": "Henry" },
+      { "question": "Cahaya monokromatik berarti memiliki …", "options": ["Banyak warna", "Banyak frekuensi", "Satu frekuensi", "Tidak punya panjang gelombang"], "answer": "Satu frekuensi" },
+      { "question": "Efek fotolistrik hanya terjadi jika …", "options": ["Intensitas tinggi", "Frekuensi > frekuensi ambang", "Dibelokkan oleh magnet", "Amplitudo tinggi"], "answer": "Frekuensi > frekuensi ambang" },
+      { "question": "Rumus relativitas massa Einstein adalah …", "options": ["E = mc²", "p = mv", "m = m₀/√(1 − v²/c²)", "F = ma"], "answer": "m = m₀/√(1 − v²/c²)" }
+    ]
+  },
+  {
+    "title": "Kimia",
+    "bg": "#EBF0FF",
+    "questions": [
+      { "question": "Ion yang menentukan keasaman larutan adalah …", "options": ["OH⁻", "H⁺", "Na⁺", "Cl⁻"], "answer": "H⁺" },
+      { "question": "Bilangan oksidasi S dalam H₂SO₄ adalah …", "options": ["+2", "+4", "+6", "−2"], "answer": "+6" },
+      { "question": "Unsur dengan elektronegativitas paling tinggi adalah …", "options": ["O", "F", "Cl", "N"], "answer": "F" },
+      { "question": "Larutan buffer adalah …", "options": ["Larutan yang mengubah pH drastis", "Larutan yang menstabilkan pH", "Larutan dengan tekanan uap tinggi", "Larutan jenuh"], "answer": "Larutan yang menstabilkan pH" },
+      { "question": "Ikatan dalam molekul N₂ adalah …", "options": ["Ikatan tunggal", "Ikatan rangkap dua", "Ikatan rangkap tiga", "Ikatan ion"], "answer": "Ikatan rangkap tiga" },
+      { "question": "Gas ideal memenuhi hukum …", "options": ["pV = nRT", "V = IR", "mgh", "E = mc²"], "answer": "pV = nRT" },
+      { "question": "Massa molar NH₃ adalah …", "options": ["14", "17", "18", "21"], "answer": "17" },
+      { "question": "Senyawa dengan massa jenis terbesar adalah …", "options": ["H₂", "He", "O₂", "Xe"], "answer": "Xe" },
+      { "question": "Hidrasi ion adalah proses …", "options": ["Pelepasan elektron", "Reaksi netralisasi", "Pengelilingi ion oleh molekul air", "Perubahan fasa"], "answer": "Pengelilingi ion oleh molekul air" },
+      { "question": "Katalis berfungsi untuk …", "options": ["Mengubah produk", "Memperlambat reaksi", "Menurunkan energi aktivasi", "Meningkatkan energi aktivasi"], "answer": "Menurunkan energi aktivasi" }
+    ]
+  },
+  {
+    "title": "Biologi",
+    "bg": "#F6E7FF",
+    "questions": [
+      { "question": "Tempat berlangsungnya transkripsi adalah …", "options": ["Sitoplasma", "Inti sel", "Ribosom", "Badan Golgi"], "answer": "Inti sel" },
+      { "question": "Energi ATP dihasilkan pada proses …", "options": ["Glikolisis", "Siklus Krebs", "Rantai transpor elektron", "Fermentasi"], "answer": "Rantai transpor elektron" },
+      { "question": "Antibiotik bekerja efektif pada …", "options": ["Virus", "Bakteri", "Jamur", "Protozoa"], "answer": "Bakteri" },
+      { "question": "Perubahan gen disebut …", "options": ["Transduksi", "Mutasi", "Transkripsi", "Rekombinasi"], "answer": "Mutasi" },
+      { "question": "Sel yang hanya memiliki satu set kromosom disebut …", "options": ["Diploid", "Haploid", "Triploid", "Poliploid"], "answer": "Haploid" },
+      { "question": "Enzim amilase memecah …", "options": ["Lemak", "Protein", "Karbohidrat", "Asam nukleat"], "answer": "Karbohidrat" },
+      { "question": "Tempat fotosintesis adalah …", "options": ["Mitokondria", "Sitoplasma", "Kloroplas", "Ribosom"], "answer": "Kloroplas" },
+      { "question": "Hemoglobin berfungsi untuk mengikat …", "options": ["Oksigen", "Lemak", "Vitamin", "Enzim"], "answer": "Oksigen" },
+      { "question": "DNA tersusun dari …", "options": ["Asam amino", "Nukleotida", "Lipid", "Polisakarida"], "answer": "Nukleotida" },
+      { "question": "Penyakit yang disebabkan kekurangan insulin adalah …", "options": ["Anemia", "Diabetes mellitus", "Leukimia", "Asma"], "answer": "Diabetes mellitus" }
+    ]
+  }
+]
